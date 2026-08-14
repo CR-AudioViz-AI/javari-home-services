@@ -247,11 +247,11 @@ export default function HomeServicesPage() {
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Ready to Get Started?</h2>
           <p className="text-xl text-gray-300 mb-8">Find trusted pros for your next home project</p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <a href="/find" className="px-8 py-4 bg-white text-orange-900 font-semibold rounded-xl hover:bg-gray-100 transition flex items-center gap-2">
+            <a  className="px-8 py-4 bg-white text-orange-900 font-semibold rounded-xl hover:bg-gray-100 transition flex items-center gap-2">
               Find a Pro Now
               <ArrowRight className="w-5 h-5" />
             </a>
-            <a href="/pros" className="px-8 py-4 border border-white/20 text-white font-semibold rounded-xl hover:bg-white/5 transition">
+            <a  className="px-8 py-4 border border-white/20 text-white font-semibold rounded-xl hover:bg-white/5 transition">
               Join as a Pro
             </a>
           </div>
